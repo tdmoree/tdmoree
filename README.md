@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I'm Ezenwagu Timothy based is Nigeria. I'm a Frontend Developer. looking forward to also be a Backend Developer and weird on tech.......
 
+**tdmoree/tdmoree** I'm **Ezenwagu Timothy** based is **Nigeria**. I'm a **Frontend Developer**. Skill in **HTML,CSS and JAVASCRIPT** currently learning **REACT**. looking forward to also be a Backend Developer and weird on tech.......
+<!--is a ✨ _special_ ✨ repository because its **all about me** `README.md` (this file) appears on your GitHub profile-->.
 
-**tdmoree/tdmoree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning React to add to my skill
