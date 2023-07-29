@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**tdmoree/tdmoree** I'm **Ezenwagu Timothy** based in **Nigeria**. I'm a **Frontend Developer**. Passinate in what i love to do **coding**. Skill in **HTML,CSS and JAVASCRIPT** currently learning **REACT**. looking forward to collaborate on React and also looking forward to be a **Backend Developer** and **weird on tech**.......
+**tdmoree/tdmoree** I'm **Ezenwagu Timothy** based in **Nigeria**. I'm a **Frontend Developer**. Passinate in **coding**. Skill in **HTML,CSS and JAVASCRIPT** currently learning **REACT**. looking forward to collaborate on React and also looking forward to be a **Backend Developer** and **weird on tech**.......
 <!--is a ✨ _special_ ✨ repository because its **all about me** `README.md` (this file) appears on your GitHub profile-->.
 
 
